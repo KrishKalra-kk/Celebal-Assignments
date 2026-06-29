@@ -1,0 +1,13 @@
+product_id,category,old_name,price,status,amount,region,priority,base_price,user_id
+P001,Electronics,widget_a,199.99,Completed,1500,North,High,150.00,U1001
+P002,Furniture,widget_b,89.50,Pending,500,South,Low,75.00,U1002
+P003,Electronics,widget_c,349.00,Completed,2200,East,Medium,300.00,
+P004,Office Supplies,widget_d,12.25,Completed,800,West,High,10.00,U1004
+P005,Electronics,widget_e,499.99,Cancelled,3000,North,Low,420.00,U1005
+P006,Furniture,widget_f,159.75,Completed,1750,South,High,135.00,U1006
+P007,Office Supplies,widget_g,24.99,Pending,300,East,Medium,20.00,
+P008,Electronics,widget_h,899.00,Completed,4100,West,Low,750.00,U1008
+P009,Furniture,widget_i,219.40,Completed,1200,North,Medium,180.00,U1009
+P010,Office Supplies,widget_j,8.75,Cancelled,150,South,Low,7.00,U1010
+P011,Electronics,widget_k,649.50,Pending,2900,East,High,540.00,U1011
+P012,Furniture,widget_l,329.00,Completed,1100,West,Medium,275.00,U1012
